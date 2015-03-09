@@ -10,7 +10,11 @@ namespace Vjezba_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World, a di ciiiiii");
+
             Console.WriteLine("Hello World, nema me");
+
+            Console.WriteLine("Hello World, evo meeee");
+
         }
     }
 }
